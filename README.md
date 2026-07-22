@@ -1,1 +1,1 @@
-# banking-transactions-analytics
+# Banking Transactions Analytics
