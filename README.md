@@ -1,4 +1,4 @@
-# Banking Performance Dashboard
+# Banking Transactions Analytics Dashboard
 
 ## 📌 Project Type
 Personal Project
