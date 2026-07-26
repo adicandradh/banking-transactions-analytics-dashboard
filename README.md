@@ -62,7 +62,7 @@ Fokus utama dari project ini adalah mengolah data transaksi menjadi informasi ya
 ### Executive Overview
 
 Dashboard untuk memantau aktivitas transaksi, performa produk, distribusi channel, serta perkembangan nilai transaksi secara menyeluruh.
-<img width="4100" height="2350" alt="banking-transactions-analytics-1" src="https://github.com/user-attachments/assets/a7526764-9d11-4d80-b549-cd0b68e246c1" />
+<img width="4100" height="2350" alt="banking-transactions-analytics-1" src="https://github.com/user-attachments/assets/02a818b3-a385-46ba-858e-91ef7cc95522" />
 
 ### Insights
 
@@ -77,7 +77,7 @@ Dashboard untuk memantau aktivitas transaksi, performa produk, distribusi channe
 ### Customer Insight
 
 Dashboard untuk mengevaluasi karakteristik pelanggan, perilaku transaksi, serta performa cabang berdasarkan berbagai metrik utama.
-<img width="4100" height="2350" alt="banking-transactions-analytics-2" src="https://github.com/user-attachments/assets/737f19f5-b93e-4941-bfc3-90dbf1d1f00b" />
+<img width="4100" height="2350" alt="banking-transactions-analytics-2" src="https://github.com/user-attachments/assets/141a8472-c777-4ee5-8fa5-cac6f716b00f" />
 
 ### Insights
 
@@ -92,7 +92,7 @@ Dashboard untuk mengevaluasi karakteristik pelanggan, perilaku transaksi, serta 
 ### Revenue Analytics
 
 Dashboard untuk mengevaluasi pendapatan berbasis biaya (fee-based revenue) berdasarkan produk, pelanggan, jenis transaksi, dan channel.
-<img width="4100" height="2350" alt="banking-transactions-analytics-3" src="https://github.com/user-attachments/assets/c54a1bd5-1a57-468a-aa19-1985c40c6dc2" />
+<img width="4100" height="2350" alt="banking-transactions-analytics-3" src="https://github.com/user-attachments/assets/2c0d0bb8-72ce-4f0b-b635-4a9170ae5f13" />
 
 ### Insights
 
