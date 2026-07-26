@@ -102,3 +102,17 @@ Dashboard untuk mengevaluasi pendapatan berbasis biaya (fee-based revenue) berda
 - Berdasarkan **Product Category**, **Loan** menghasilkan **fee-based revenue** terbesar dengan selisih yang cukup signifikan dibandingkan kategori produk lainnya. **Credit Card** menempati posisi kedua, sedangkan **Mortgage** dan **Savings Account** memberikan kontribusi fee yang relatif lebih rendah.
 - Distribusi **fee-based revenue** berdasarkan **Customer Segment** menunjukkan bahwa **Middle Income Segment** memberikan kontribusi terbesar terhadap total pendapatan berbasis biaya, diikuti oleh **High Income Segment** dan **Low Income Segment**. Temuan ini menunjukkan bahwa peluang pendapatan bank tidak hanya berasal dari nasabah berpendapatan tinggi, tetapi juga didukung oleh tingginya aktivitas transaksi pada segmen menengah.
 - Secara keseluruhan, **Loan** menjadi kontributor utama **fee-based revenue**, terutama melalui transaksi **Loan Payment**. Temuan ini dapat menjadi dasar dalam mengevaluasi strategi produk, mengoptimalkan sumber pendapatan berbasis biaya, serta mengidentifikasi segmen pelanggan yang memberikan kontribusi terbesar terhadap pendapatan non-bunga bank.
+
+## 💡 Business Recommendations
+
+Berdasarkan hasil analisis dashboard, beberapa rekomendasi bisnis yang dapat dipertimbangkan antara lain:
+
+- **Optimalkan produk pembiayaan sebagai penggerak bisnis utama.** Produk **Loan** dan **Mortgage** menghasilkan nilai transaksi tertinggi, sementara **Loan** juga menjadi kontributor terbesar terhadap **fee-based revenue**. Bank dapat memperkuat strategi cross-selling dan upselling pada produk pembiayaan untuk meningkatkan aktivitas transaksi sekaligus pendapatan berbasis biaya.
+
+- **Terapkan strategi pemasaran yang lebih tersegmentasi.** **Middle Income Segment** memberikan kontribusi terbesar terhadap nilai transaksi dan fee-based revenue, sedangkan pelanggan dengan **Prime Credit Score** menunjukkan kontribusi fee yang tinggi pada jalur analisis Loan. Pendekatan pemasaran yang disesuaikan dengan karakteristik masing-masing segmen dapat meningkatkan efektivitas penawaran produk.
+
+- **Percepat transformasi layanan digital tanpa mengabaikan layanan cabang.** Meskipun **Mobile Banking** menjadi channel yang paling banyak digunakan, kontribusi transaksi masih relatif seimbang dengan Branch, ATM, dan Online Banking. Kondisi ini menunjukkan pentingnya menjaga pengalaman pelanggan secara konsisten di seluruh channel (omnichannel banking).
+
+- **Lakukan monitoring kapasitas operasional secara berkala.** Tren menunjukkan peningkatan aktivitas transaksi dan jumlah pelanggan pada periode akhir tahun. Informasi ini dapat dimanfaatkan untuk merencanakan kebutuhan sumber daya, kapasitas sistem, maupun pelayanan cabang agar mampu mengakomodasi peningkatan volume transaksi.
+
+- **Diversifikasi sumber fee-based revenue.** Pendapatan berbasis biaya saat ini masih didominasi oleh **Late Payment Amount**. Bank dapat mengurangi ketergantungan terhadap pendapatan yang bersifat penalti dengan meningkatkan kontribusi dari layanan bernilai tambah, seperti produk kartu kredit, asuransi, maupun layanan digital yang memberikan fee secara berkelanjutan.
